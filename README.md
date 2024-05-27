@@ -3,7 +3,7 @@ Oi, eu sou o Marco.
 
 - 🔭 Estou atualmente trabalhando com Csharp;
 - 🌱 Estou atualmente aprendendo Java;
-- 💼 Comecei no mundo de programação em 11/2023.
+- 💼 Comecei no mundo de programação em 05/2023.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="m-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
